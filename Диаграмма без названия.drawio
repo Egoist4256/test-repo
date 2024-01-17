@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T03:08:31.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.20" etag="z18qruVwOo3HK5evjwtW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T03:24:03.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="iOXZnw--OG7IK83k7TD0" version="22.1.20" type="github">
   <diagram name="Страница — 1" id="_BysCv64gUJ9Wq5u43pV">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F1QexSVomzbDMvGUb8OM-1" value="Главный менеджер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-3" value="Закупка авто" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-6" value="Бухгалтер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-7" value="Администратор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-8" value="Авто" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-9" value="Завод-поставщик" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-10" value="Клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-11" value="Продавец" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-13" value="" style="rounded=0;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QexSVomzbDMvGUb8OM-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
